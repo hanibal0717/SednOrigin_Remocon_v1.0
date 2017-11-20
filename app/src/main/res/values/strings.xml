@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SEDN Remocon</string>
+
+    <string name="ip_input_dialog_title">STB 연결 설정</string>
+    <string name="str_wifi">Wi-Fi</string>
+    <string name="str_bluetooth">Bluetooth</string>
+    <string name="str_connect">연결(재연결)</string>
+    <string name="str_scanning">SEDN STB 검색중</string>
+    <string name="msg_stb_not_connected">STB에 연결되어 있지 않습니다.</string>
+    <string name="network_fail">네트워크에 연결되어 있지 않습니다.</string>
+    <string name="invalid_ip">올바른 IP 주소를 입력해 주세요.</string>
+    <string name="already_connected">이미 연결되어 있습니다.</string>
+    <string name="msg_bluetooth_connected">Bluetooth로 연결되었습니다.</string>
+    <string name="msg_bluetooth_connect_failed">Bluetooth 연결에 실패했습니다.</string>
+    <string name="msg_wifi_connected">WiFi로 연결되었습니다.</string>
+    <string name="msg_wifi_connection_fail">WiFi 연결에 실패했습니다.</string>
+    <string name="msg_socket_failure">연결 상태가 비정상입니다. 리모컨을 재시작해 주십시오.</string>
+
+    <string name="msg_poweroff_confirm">STB의 전원을 끄시겠습니까?</string>
+
+    <string name="home">HOME</string>
+    <string name="confirm">확인</string>
+    <string name="intro_right">Copyrightⓒ2017 INUC, Inc.</string>
+</resources>
